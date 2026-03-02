@@ -35,3 +35,5 @@ event_management/
 1. Clone the repo: `git clone <repo-url>`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run server: `python manage.py runserver`
+
+## Happy Learning 

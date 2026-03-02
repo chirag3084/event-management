@@ -35,4 +35,6 @@ event_management/
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run server: `python manage.py runserver`
 
+## use docker for containerization
+
 ## Happy Learning 

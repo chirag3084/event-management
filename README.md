@@ -1,4 +1,4 @@
-# Event Management System
+# Event Management System(Django)
 
 ## Overview
 The Event Management System is a beginner-friendly Django web app that allows users to create, manage, and participate in events. It demonstrates core Django concepts, providing hands-on experience for new developers.

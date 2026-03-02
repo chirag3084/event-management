@@ -7,7 +7,6 @@ The Event Management System is a beginner-friendly Django web app that allows us
 - User registration & authentication
 - Event creation, editing, and deletion
 - Event browsing & search functionality
-- Event registration & user dashboard
 
 ## Technologies Used
 - Django 4.2
